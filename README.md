@@ -27,7 +27,7 @@ The analysis therefore addresses four questions:
 3. Which meat category recorded the highest percentage growth in total consumption between 2013 and 2018?
 4. Did total consumption and consumption per person follow similar trends?
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 **Microsoft Power BI**
 
